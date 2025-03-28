@@ -47,7 +47,7 @@ Ensure you have the following installed:
 5. **Apply security measures** based on findings.
 
 ## 📞 Contact
-For more updates and inquiries, click the Instagram logo below to visit our official page:
+For more updates and inquiries, click the small Instagram logo below to visit our official page:
 
 [![Install](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/iam.hemanth_/)
 
@@ -56,4 +56,6 @@ We welcome contributions! Feel free to submit issues or pull requests.
 
 ## 📜 License
 This project is licensed under the **MIT License**.
+
+
 
