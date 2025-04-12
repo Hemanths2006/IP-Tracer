@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
-"""
-Advanced IP Tracer Tool
-Author: YourName
-GitHub: https://github.com/yourusername/IP-Tracer
-"""
+
 
 import requests
 import json
